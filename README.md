@@ -26,6 +26,8 @@ git clone https://github.com/ianXkuraoka/GlobalSolution-CSharp.git
 
 3. Compile e execute pressionando `F5` ou pelo menu de execução.
 
+4. de padrão, o programa possui um user `admin` que possui a senha `admin`
+
 ## Funcionalidades
 
 - Cadastro de dados
